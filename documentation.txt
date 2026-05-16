@@ -3,3 +3,4 @@ ajout de ma doc suite doc branch
 ajout test etant suite-doc2
 ok
 D'accord
+git off ok 
